@@ -1,0 +1,7 @@
+.container {
+  width: 500px;
+  margin: auto;
+  padding: 40px;
+  margin-top: 40px;
+  box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.2)
+}
