@@ -29,7 +29,7 @@ class App extends Component {
       )
     })
     return (
-      <div className="contonor">
+      <div className="container">
         <div>
           <TransactionForm addTransaction={this.addTransaction} />
           <table className="transaction-history-table">
